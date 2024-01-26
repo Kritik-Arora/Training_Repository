@@ -1,0 +1,46 @@
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Creating 3 accounts
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: Initial Account Details:
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=1, holderName=John Doe, type=Savings, balance=5000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=2, holderName=Jane Doe, type=Checking, balance=3000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=3, holderName=Alice Smith, type=Savings, balance=8000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: 
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Performing transactions
+Jan 25, 2024 1:36:05 PM mainmod.MainModule performTransactions
+INFO: Performing Deposit and Withdraw transactions
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: Updated Account Details:
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=1, holderName=John Doe, type=Savings, balance=6000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=2, holderName=Jane Doe, type=Checking, balance=2500.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=3, holderName=Alice Smith, type=Savings, balance=10000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: 
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Checking balance for account number 2
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Balance for Account 2: 2500.0
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Removing account number 3
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Account 3 removed successfully.
+Jan 25, 2024 1:36:05 PM mainmod.MainModule main
+INFO: Creating a new account
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: Final Account Details:
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=1, holderName=John Doe, type=Savings, balance=6000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=2, holderName=Jane Doe, type=Checking, balance=2500.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: BankAccount [accountNumber=4, holderName=Bob Johnson, type=Checking, balance=6000.0]
+Jan 25, 2024 1:36:05 PM mainmod.MainModule displayAccountDetails
+INFO: 
